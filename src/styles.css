@@ -1,0 +1,16 @@
+body{
+    margin: 0%;
+    background-color: aquamarine;
+}
+.tol-4 {
+    display: block;
+    right: 10px;
+    top: 0;
+    position: absolute ;
+    margin-right: 10px;
+    margin-top: 5px;
+}
+img {
+    width : 400px;
+    height : 200px;
+    }
